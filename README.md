@@ -45,6 +45,10 @@ Any donations are appreciated (please use the Github sponsor/funding buttons).
 # License
 [(Back to top)](#table-of-contents)
 
-[MIT license](./LICENSE)
+Distributed under the [MIT license](./LICENSE). See [MIT License](https://opensource.org/licenses/MIT) for more information.
 
 
+# Contact
+[(Back to top)](#table-of-contents)
+
+Project Link: [https://github.com/tgmgroup/Sheets-and-Shorten](https://github.com/tgmgroup/Sheets-and-Shorten)
