@@ -27,7 +27,7 @@ This is a table of contents for your project. It helps the reader navigate throu
 
 
 # Installation and Usage
-[(Back to top)](#installation-and-usage)
+[(Back to top)](#table-of-contents)
 
 1. Create a new Google Sheet. 
 2. Put any necessary data into some cells (Kutt URL, Bitly API Key, etc.), and label them. 
