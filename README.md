@@ -19,8 +19,8 @@ Make a copy of this [Google Sheet](https://docs.google.com/spreadsheets/d/1xczuB
 # Table of Contents
 
 This is a table of contents for your project. It helps the reader navigate through the README quickly.
-- [Project Title](#project-title)
-- [Quick Start Demo](#quick-start-demo)
+- [Sheets and Shorten](#project-title)
+- [Quick Start](#quick-start-demo)
 - [Installation and Usage](#installation-and-usage)
 - [Contribute](#contribute)
 - [License](#license)
