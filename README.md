@@ -39,7 +39,7 @@ This is a table of contents for your project. It helps the reader navigate throu
 [(Back to top)](#table-of-contents)
 
 Fork this project to contribute to the source code.
-Any donations are appreciated.
+Any donations are appreciated (please use the Github sponsor/funding buttons).
 
 
 # License
