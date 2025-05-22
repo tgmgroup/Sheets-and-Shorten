@@ -1,4 +1,4 @@
-![Sheets and Shorten](https://github.com/tgmgroup/Sheets-and-Shorten/header.png)
+![Sheets and Shorten](https://github.com/tgmgroup/Sheets-and-Shorten/blob/main/header.png)
 
 # Sheets and Shorten
 
@@ -12,7 +12,7 @@ These tools were made for bulk converting, checking, and unshortening URLs using
 
 # Quick Start
 
-![Preview](https://github.com/tgmgroup/Sheets-and-Shorten/header.png)
+![Preview](https://github.com/tgmgroup/Sheets-and-Shorten/blob/main/header.png)
 
 Make a copy of this [Google Sheet](https://docs.google.com/spreadsheets/d/1xczuB_nZDTs6-9Z6fOtmDoxYlMAr7PFdpXuR7Cn6ecw/view)
 
