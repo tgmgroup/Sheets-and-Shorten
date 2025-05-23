@@ -13,32 +13,21 @@ These tools were made for bulk converting, checking, and unshortening URLs using
 
 # Table of Contents
 
-- [Sheets and Shorten](#project-title)
-- [Quick Start](#quick-start-demo)
+- [Sheets and Shorten](#sheets-and-shorten)
+- [Quick Start](#quick-start)
 - [Installation and Usage](#installation-and-usage)
 - [Contribute](#contribute)
 - [License](#license)
 
 
 # Quick Start
-
-![Preview](https://github.com/tgmgroup/Sheets-and-Shorten/blob/main/header.png)
+[(Back to top)](#sheets-and-shorten)
 
 Make a copy of this [Google Sheet](https://docs.google.com/spreadsheets/d/1xczuB_nZDTs6-9Z6fOtmDoxYlMAr7PFdpXuR7Cn6ecw/view)
 
 
-# Table of Contents
-
-This is a table of contents for your project. It helps the reader navigate through the README quickly.
-- [Sheets and Shorten](#project-title)
-- [Quick Start](#quick-start-demo)
-- [Installation and Usage](#installation-and-usage)
-- [Contribute](#contribute)
-- [License](#license)
-
-
 # Installation and Usage
-[(Back to top)](#project-title)
+[(Back to top)](#sheets-and-shorten)
 
 1. Create a new Google Sheet. 
 2. Put any necessary data into some cells (Kutt URL, Bitly API Key, etc.), and label them. 
@@ -47,19 +36,19 @@ This is a table of contents for your project. It helps the reader navigate throu
 
 
 # Contribute
-[(Back to top)](#project-title)
+[(Back to top)](#sheets-and-shorten)
 
 Fork this project to contribute to the source code.
 Any donations are appreciated (please use the Github sponsor/funding buttons).
 
 
 # License
-[(Back to top)](#project-title)
+[(Back to top)](#sheets-and-shorten)
 
 Distributed under the [MIT license](./LICENSE). See [MIT License](https://opensource.org/licenses/MIT) for more information.
 
 
 # Contact
-[(Back to top)](#project-title)
+[(Back to top)](#sheets-and-shorten)
 
 Project Link: [https://github.com/tgmgroup/Sheets-and-Shorten](https://github.com/tgmgroup/Sheets-and-Shorten)
